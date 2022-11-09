@@ -1,0 +1,15 @@
+export default {
+    showEye : require("../images/visibility.png"),
+    hideEye : require("../images/visibility_off.png"),
+    myback : require("../images/back.png"),
+    bell : require("../images/bell.png"),
+    check : require("../images/check_box.png"),
+    checkDone : require("../images/check_done.png"),
+    dropdown : require("../images/dropdown.png"),
+    forward : require("../images/forward.png"),
+    location : require("../images/location.png"),
+    home: require("../images/home.png"),
+    booking: require("../images/booking.png"),
+    profile: require("../images/profile.png"),
+    settings: require("../images/settings.png"),
+}
